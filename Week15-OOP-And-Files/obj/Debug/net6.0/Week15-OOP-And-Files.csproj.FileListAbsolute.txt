@@ -1,0 +1,15 @@
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\Week15-OOP-And-Files.csproj.AssemblyReference.cache
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\Week15-OOP-And-Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\Week15-OOP-And-Files.AssemblyInfoInputs.cache
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\Week15-OOP-And-Files.AssemblyInfo.cs
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\Week15-OOP-And-Files.csproj.CoreCompileInputs.cache
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\bin\Debug\net6.0\Week15-OOP-And-Files.exe
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\bin\Debug\net6.0\Week15-OOP-And-Files.deps.json
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\bin\Debug\net6.0\Week15-OOP-And-Files.runtimeconfig.json
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\bin\Debug\net6.0\Week15-OOP-And-Files.dll
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\bin\Debug\net6.0\Week15-OOP-And-Files.pdb
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\Week15-OOP-And-Files.dll
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\refint\Week15-OOP-And-Files.dll
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\Week15-OOP-And-Files.pdb
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\Week15-OOP-And-Files.genruntimeconfig.cache
+C:\Users\Petrik\source\repos\Week15-OOP-And-Files\Week15-OOP-And-Files\obj\Debug\net6.0\ref\Week15-OOP-And-Files.dll
